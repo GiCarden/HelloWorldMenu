@@ -1,3 +1,3 @@
 # HelloWorldMenu
 
-A C++ HelloWorldMenu using non-looping structures coded in C++ 14 with CLion.
+A HelloWorldMenu using non-looping structures coded with C++ 14.
